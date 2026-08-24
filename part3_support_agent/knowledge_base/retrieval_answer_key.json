@@ -1,0 +1,33 @@
+
+[
+    {
+        "query_id": "q1",
+        "query": "How many days do I have to return a pair of shoes?",
+        "relevant_doc_ids": ["policy_02"]
+    },
+    {
+        "query_id": "q2",
+        "query": "What is the return period for an electronic item?",
+        "relevant_doc_ids": ["policy_03"]
+    },
+    {
+        "query_id": "q3",
+        "query": "How will I receive my refund for a COD return?",
+        "relevant_doc_ids": ["policy_06"]
+    },
+    {
+        "query_id": "q4",
+        "query": "Can Flipkart pick up my return from my address?",
+        "relevant_doc_ids": ["policy_10"]
+    },
+    {
+        "query_id": "q5",
+        "query": "My package is late. What should I do?",
+        "relevant_doc_ids": ["policy_08", "policy_09"]
+    },
+    {
+        "query_id": "q6",
+        "query": "What happens if the product delivered to me is damaged?",
+        "relevant_doc_ids": ["policy_12"]
+    }
+]

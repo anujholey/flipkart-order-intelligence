@@ -1,0 +1,5 @@
+MODE: MOCK_LLM
+NEW GRAPH INVOCATION WITH NO PRIOR STATE
+USER: What is the risk for that order again?
+LAST ORDER ID: None
+ASSISTANT: {"answer": "No order features are available in this conversation.", "source": "return_risk_tool", "confidence": 0.0}

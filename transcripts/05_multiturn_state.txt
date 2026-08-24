@@ -1,0 +1,10 @@
+MODE: MOCK_LLM
+TURN 1
+USER: Check the return risk for this order.
+ORDER ID: ORD-STATE-77
+ASSISTANT: {"answer": "Predicted return probability is 0.6730; risk bucket is High.", "source": "return_risk_tool", "confidence": 0.673}
+
+TURN 2
+USER: What is the risk for that order again?
+REMEMBERED ORDER ID: ORD-STATE-77
+ASSISTANT: {"answer": "Predicted return probability is 0.6730; risk bucket is High.", "source": "return_risk_tool", "confidence": 0.673}

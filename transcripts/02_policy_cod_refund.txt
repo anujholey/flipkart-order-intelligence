@@ -1,0 +1,4 @@
+MODE: MOCK_LLM
+Routing method: rule_fallback
+USER: How does refund work for a COD return?
+ASSISTANT: {"answer": "For an approved return originally paid using Cash on Delivery, the refund is processed to the customer's selected eligible refund method. Refund processing generally begins after the returned product passes the required return checks.", "source": "policy_kb", "confidence": 0.6443}
