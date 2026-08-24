@@ -1,0 +1,10 @@
+MODE: MOCK_LLM
+Routing method: few_shot:1.000
+USER: Classify this product image.
+IMAGE PATH: /content/drive/MyDrive/flipkart-order-intelligence/data/sample_images/00000_ankle_boot.png
+TOOL RESULT:
+{
+  "predicted_category": "Ankle boot",
+  "confidence": 0.9294
+}
+ASSISTANT: {"answer": "Predicted product category is Ankle boot.", "source": "image_classifier_tool", "confidence": 0.9294}

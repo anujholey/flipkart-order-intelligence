@@ -1,0 +1,5 @@
+MODE: MOCK_LLM
+USER: What is the policy for booking a rocket ticket to Mars?
+TOP RETRIEVAL SIMILARITY: 0.20955857634544373
+GROUNDEDNESS THRESHOLD: 0.4
+ASSISTANT: {"answer": "I do not have enough grounded policy evidence to answer. Top similarity=0.2096; required threshold=0.4000.", "source": "policy_kb", "confidence": 0.2096}

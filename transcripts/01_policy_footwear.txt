@@ -1,0 +1,4 @@
+MODE: MOCK_LLM
+Routing method: few_shot:1.000
+USER: How many days can I return footwear?
+ASSISTANT: {"answer": "Footwear may be returned within 10 days of delivery. Apparel items may be returned within 10 days of delivery.", "source": "policy_kb", "confidence": 0.8729}

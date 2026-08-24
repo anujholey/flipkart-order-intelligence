@@ -1,0 +1,170 @@
+[
+    {
+        "chunk_id": "policy_01_chunk_1",
+        "doc_id": "policy_01",
+        "title": "Apparel Return Window",
+        "text": "Apparel items may be returned within 10 days of delivery."
+    },
+    {
+        "chunk_id": "policy_01_chunk_2",
+        "doc_id": "policy_01",
+        "title": "Apparel Return Window",
+        "text": "The product should be unused, unwashed, and returned with its original tags whenever applicable."
+    },
+    {
+        "chunk_id": "policy_02_chunk_1",
+        "doc_id": "policy_02",
+        "title": "Footwear Return Window",
+        "text": "Footwear may be returned within 10 days of delivery."
+    },
+    {
+        "chunk_id": "policy_02_chunk_2",
+        "doc_id": "policy_02",
+        "title": "Footwear Return Window",
+        "text": "Shoes and sandals should be returned unused and preferably with the original box and accessories."
+    },
+    {
+        "chunk_id": "policy_03_chunk_1",
+        "doc_id": "policy_03",
+        "title": "Electronics Return Window",
+        "text": "Eligible electronics may be reported for replacement or return within 7 days of delivery."
+    },
+    {
+        "chunk_id": "policy_03_chunk_2",
+        "doc_id": "policy_03",
+        "title": "Electronics Return Window",
+        "text": "The item may be inspected when the complaint involves damage, missing accessories, or a functional defect."
+    },
+    {
+        "chunk_id": "policy_04_chunk_1",
+        "doc_id": "policy_04",
+        "title": "Home Category Return Window",
+        "text": "Eligible home-category products may be returned within 10 days of delivery."
+    },
+    {
+        "chunk_id": "policy_04_chunk_2",
+        "doc_id": "policy_04",
+        "title": "Home Category Return Window",
+        "text": "Products should be returned with supplied accessories and packaging when reasonably possible."
+    },
+    {
+        "chunk_id": "policy_05_chunk_1",
+        "doc_id": "policy_05",
+        "title": "Beauty Product Returns",
+        "text": "Beauty and personal-care products are returnable only when the item is eligible and remains unopened or when it arrives damaged, defective, or incorrect."
+    },
+    {
+        "chunk_id": "policy_05_chunk_2",
+        "doc_id": "policy_05",
+        "title": "Beauty Product Returns",
+        "text": "Used or opened hygiene-sensitive products may be excluded from normal returns."
+    },
+    {
+        "chunk_id": "policy_06_chunk_1",
+        "doc_id": "policy_06",
+        "title": "COD Refund Timeline",
+        "text": "For an approved return originally paid using Cash on Delivery, the refund is processed to the customer's selected eligible refund method."
+    },
+    {
+        "chunk_id": "policy_06_chunk_2",
+        "doc_id": "policy_06",
+        "title": "COD Refund Timeline",
+        "text": "Refund processing generally begins after the returned product passes the required return checks."
+    },
+    {
+        "chunk_id": "policy_07_chunk_1",
+        "doc_id": "policy_07",
+        "title": "Prepaid Refund Timeline",
+        "text": "Approved refunds for prepaid orders are normally initiated back to the original or eligible payment method after required return checks."
+    },
+    {
+        "chunk_id": "policy_07_chunk_2",
+        "doc_id": "policy_07",
+        "title": "Prepaid Refund Timeline",
+        "text": "The final credit time can depend on the customer's bank or payment provider."
+    },
+    {
+        "chunk_id": "policy_08_chunk_1",
+        "doc_id": "policy_08",
+        "title": "Standard Delivery SLA",
+        "text": "The estimated delivery date shown for an order is based on the seller, destination, inventory availability, and logistics network."
+    },
+    {
+        "chunk_id": "policy_08_chunk_2",
+        "doc_id": "policy_08",
+        "title": "Standard Delivery SLA",
+        "text": "Customers should use the latest order-tracking status for the current expected delivery timeline."
+    },
+    {
+        "chunk_id": "policy_09_chunk_1",
+        "doc_id": "policy_09",
+        "title": "Delayed Delivery",
+        "text": "If an order passes its expected delivery date, the customer should check the latest tracking update before reporting a delay."
+    },
+    {
+        "chunk_id": "policy_09_chunk_2",
+        "doc_id": "policy_09",
+        "title": "Delayed Delivery",
+        "text": "Support may review the logistics status and provide the latest available delivery information."
+    },
+    {
+        "chunk_id": "policy_10_chunk_1",
+        "doc_id": "policy_10",
+        "title": "Reverse Pickup Eligibility",
+        "text": "Reverse pickup is available only for return-eligible products and serviceable pickup locations."
+    },
+    {
+        "chunk_id": "policy_10_chunk_2",
+        "doc_id": "policy_10",
+        "title": "Reverse Pickup Eligibility",
+        "text": "When reverse pickup is unavailable, an alternative return method may be provided according to the order's return eligibility."
+    },
+    {
+        "chunk_id": "policy_11_chunk_1",
+        "doc_id": "policy_11",
+        "title": "Return Condition Requirements",
+        "text": "A returned item should normally include the product, accessories, manuals, tags, and original packaging when applicable."
+    },
+    {
+        "chunk_id": "policy_11_chunk_2",
+        "doc_id": "policy_11",
+        "title": "Return Condition Requirements",
+        "text": "A return may be rejected when the item is damaged after delivery or important supplied components are missing."
+    },
+    {
+        "chunk_id": "policy_12_chunk_1",
+        "doc_id": "policy_12",
+        "title": "Wrong or Damaged Product",
+        "text": "Customers should report an incorrect, damaged, or defective product within the applicable return or replacement window."
+    },
+    {
+        "chunk_id": "policy_12_chunk_2",
+        "doc_id": "policy_12",
+        "title": "Wrong or Damaged Product",
+        "text": "Support may request order details and evidence needed to validate the reported issue."
+    },
+    {
+        "chunk_id": "policy_13_chunk_1",
+        "doc_id": "policy_13",
+        "title": "Order Cancellation",
+        "text": "An order can generally be cancelled while cancellation remains available in the order workflow."
+    },
+    {
+        "chunk_id": "policy_13_chunk_2",
+        "doc_id": "policy_13",
+        "title": "Order Cancellation",
+        "text": "Once shipping or delivery progresses beyond the cancellation stage, the customer may need to use the applicable return process instead."
+    },
+    {
+        "chunk_id": "policy_14_chunk_1",
+        "doc_id": "policy_14",
+        "title": "Non-Returnable Items",
+        "text": "Some products may be marked non-returnable because of hygiene, safety, customization, or category-specific restrictions."
+    },
+    {
+        "chunk_id": "policy_14_chunk_2",
+        "doc_id": "policy_14",
+        "title": "Non-Returnable Items",
+        "text": "A damaged, defective, or incorrect delivery may still qualify for support according to the applicable listing and order conditions."
+    }
+]

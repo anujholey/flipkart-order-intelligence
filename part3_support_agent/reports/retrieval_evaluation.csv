@@ -1,0 +1,7 @@
+query_id,query,relevant_documents,retrieved_documents,precision_at_3,recall_at_3
+q1,How many days do I have to return a pair of shoes?,policy_02,"policy_02,policy_01,policy_03",0.3333333333333333,1.0
+q2,What is the return period for an electronic item?,policy_03,"policy_03,policy_01,policy_11",0.3333333333333333,1.0
+q3,How will I receive my refund for a COD return?,policy_06,"policy_06,policy_07,policy_13",0.3333333333333333,1.0
+q4,Can Flipkart pick up my return from my address?,policy_10,"policy_10,policy_13,policy_06",0.3333333333333333,1.0
+q5,My package is late. What should I do?,"policy_08,policy_09","policy_09,policy_01,policy_08",0.6666666666666666,1.0
+q6,What happens if the product delivered to me is damaged?,policy_12,"policy_14,policy_12,policy_03",0.3333333333333333,1.0

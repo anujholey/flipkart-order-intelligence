@@ -1,0 +1,4 @@
+MODE: MOCK_LLM
+Routing method: rule_fallback
+USER: My package is late. What should I do?
+ASSISTANT: {"answer": "If an order passes its expected delivery date, the customer should check the latest tracking update before reporting a delay. Apparel items may be returned within 10 days of delivery.", "source": "policy_kb", "confidence": 0.4685}

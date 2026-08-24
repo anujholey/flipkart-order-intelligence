@@ -1,0 +1,27 @@
+MODE: MOCK_LLM
+Routing method: few_shot:1.000
+USER: Check the return risk for this order.
+ORDER ID: ORD-1001
+ORDER FEATURES:
+{
+  "product_category": "Apparel",
+  "price_inr": 1800,
+  "discount_pct": 35.0,
+  "payment_method": "COD",
+  "customer_tenure_days": 120,
+  "num_previous_orders": 4,
+  "num_previous_returns": 2,
+  "delivery_distance_km": 320.0,
+  "delivery_days": 7,
+  "is_weekend_order": 1,
+  "rating_given": 2.0
+}
+TOOL RESULT:
+{
+  "return_probability": 0.673,
+  "risk_bucket": "High",
+  "t_rf": 0.47,
+  "low_medium_cutoff": 0.47,
+  "medium_high_cutoff": 0.62
+}
+ASSISTANT: {"answer": "Predicted return probability is 0.6730; risk bucket is High.", "source": "return_risk_tool", "confidence": 0.673}
