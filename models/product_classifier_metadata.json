@@ -1,0 +1,28 @@
+{
+    "architecture": "resnet18",
+    "input_size": 224,
+    "num_classes": 10,
+    "class_names": [
+        "T-shirt/top",
+        "Trouser",
+        "Pullover",
+        "Dress",
+        "Coat",
+        "Sandal",
+        "Shirt",
+        "Sneaker",
+        "Bag",
+        "Ankle boot"
+    ],
+    "batch_size": 256,
+    "head_batch_size": 512,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "epochs": 12,
+    "train_size": 55000,
+    "validation_size": 5000,
+    "test_size": 10000,
+    "feature_extraction_validation_accuracy": 0.894,
+    "test_accuracy": 0.8797,
+    "fine_tuning_required": false
+}

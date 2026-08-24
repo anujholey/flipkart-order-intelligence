@@ -7,3 +7,7 @@ __pycache__/
 venv/
 *.log
 .DS_Store
+
+# Part 2 generated/downloaded data
+part2_image_classifier/feature_cache/
+part2_image_classifier/data/
